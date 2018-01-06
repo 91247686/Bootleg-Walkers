@@ -48,4 +48,4 @@ Bootleg Walkers mod for Cataclysm: Dark Days Ahead
 * - Create a new world, selecting this mod in-game OR
 * - Add this mod to your Cataclysm\save\[your world]\mods.json file, ensuring that every entry BUT the last has a comma ( , ) at the end.
 
-# Created by Feasts Upon Stars/Aggregate, for Cataclysm: Dark Days Ahead.
+Created by Feasts Upon Stars/Aggregate, for Cataclysm: Dark Days Ahead.
