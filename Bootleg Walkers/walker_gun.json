@@ -36,7 +36,7 @@
      "color": "pink",
      "ammo": "shot",
      "dispersion": 200,
-     "durability": 8,
+     "durability": 3,
      "reload": 400,
 	 "clip_size": 500,
      "modes": [ [ "DEFAULT" ,  "AUTO", 2 ] ]
@@ -57,7 +57,7 @@
      "color": "pink",
      "ammo": "signal_flare",
      "dispersion": 200,
-     "durability": 8,
+     "durability": 3,
      "reload": 400,
 	 "clip_size": 250
 	},
