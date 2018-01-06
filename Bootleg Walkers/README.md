@@ -43,4 +43,4 @@ Bootleg Walkers mod for Cataclysm: Dark Days Ahead
 * - First you'll need the schematics (unless you're making a scrap walker, in which case "R"ead the broken Chicken Walker), then it's a matter of accruing the resources needed to construct a Walker Chassis, and after that, an Unarmed Walker. Then decide which flavour of death you wish to rain upon your enemies, and construct the finished walker.
 
 
-# Created by Feasts Upon Stars/Aggregate, for Cataclysm: Dark Days Ahead. Please contact me before altering and/or distributing this mod.
+# Created by Feasts Upon Stars/Aggregate, for Cataclysm: Dark Days Ahead.
