@@ -14,7 +14,7 @@ Bootleg Walkers mod for Cataclysm: Dark Days Ahead
 
 # Walkers: 
 
-* - Shared traits: bootleg walkers have lower health, speed, armour and sight range (the only exceptions being Super Walkers), and their weaponry is prone to malfunction.
+* - Shared traits: bootleg walkers have lower health, speed, armour and sight range, and their weaponry is prone to malfunction (the only exceptions being Super Walkers).
 
 * - Unarmed Walker: The basis for all other walkers (with two exceptions (four if counting chicken walkers)).  It is armed with only a tazer.  Not intended for combat.
 
