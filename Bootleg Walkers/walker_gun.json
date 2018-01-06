@@ -18,7 +18,7 @@
      "durability": 3,
      "reload": 400,
 	 "clip_size": 1000,
-     "modes": [ [ "DEFAULT" ,  "AUTO", 3 ] ]
+     "modes": [ [ "DEFAULT" ] ]
 	},
 	{
      "id": "walker_shot",
@@ -39,7 +39,7 @@
      "durability": 3,
      "reload": 400,
 	 "clip_size": 500,
-     "modes": [ [ "DEFAULT" ,  "AUTO", 2 ] ]
+     "modes": [ [ "DEFAULT" ] ]
 	},
 	{
      "id": "walker_flare",
@@ -81,7 +81,7 @@
      "reload": 400,
      "barrel_length": 5,
 	 "clip_size": 1000,
-     "modes": [ [ "DEFAULT" ,  "AUTO", 3 ] ]
+     "modes": [ [ "DEFAULT" ] ]
 	},
 	{
      "id": "walker_fusion",
@@ -102,7 +102,7 @@
      "dispersion": 175,
      "durability": 3,
      "reload": 400,
-     "modes": [ [ "DEFAULT" ,  "AUTO", 2 ] ],
+     "modes": [ [ "DEFAULT" ] ],
      "ammo_effects": [ "PLASMA", "EXPLOSIVE", "FLAME" ]
 	},
 	{
@@ -127,7 +127,7 @@
      "loudness": 8,
      "ups_charges": 25,
      "reload": 200,
-     "modes": [ [ "DEFAULT" ,  "AUTO", 6 ] ],
+     "modes": [ [ "DEFAULT" ] ],
      "ammo_effects": [ "LASER", "INCENDIARY" ],
      "flags": [ "NO_UNLOAD" ]
 	},
@@ -171,6 +171,6 @@
      "loudness": 35,
      "reload": 500,
      "ammo_effects": [ "LIGHTNING", "BOUNCE" ],
-     "modes": [ [ "DEFAULT" ,  "AUTO", 3 ] ]
+     "modes": [ [ "DEFAULT" ] ]
 	}
 ]
