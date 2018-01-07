@@ -8,7 +8,7 @@
 	},
 	{
      "type" : "item_group",
-     "id" : "wreckage",
+     "id" : "helicopter",
      "items": [
        [ "chickenbot_packed", 2 ]
      ]
