@@ -77,7 +77,7 @@
      "id": "mon_superbot",
      "type": "MONSTER",
      "name": "super walker",
-     "description": "A large combat walker based on the Northrup ATSV.  Armed with an M2 Browning .50 calibre machine gun, electroshock and -magnet units alongside six mechadendrite-mounted blades.  Features  improved combat logic, thick superalloy-ceramic composite plating, enhanced optics, motors and sensors, an offensive defence system and integrated self-repair nanomachines.",
+     "description": "A large combat walker based on the Northrup ATSV.  Armed with an M2 Browning .50 calibre machine gun, electroshock and -magnet units alongside six mechadendrite-mounted blades.  Features  improved combat logic, thick superalloy-ceramic composite plating, enhanced optics, motors and sensors and an offensive defence system .",
      "default_faction": "military",
      "species": [ "ROBOT" ],
      "diff": 32,
@@ -147,7 +147,7 @@
 	 ]
 	 },
 	 "death_function": [ "BROKEN" ],
-	 "flags": [ "SEES", "HEARS", "GOODHEARING", "ACIDPROOF", "PUSH_MON", "ELECTRIC", "REGENERATES_50", "BASHES", "NO_BREATHE", "ELECTRONIC", "PRIORITIZE_TARGETS", "ELECTRIC" ]
+	 "flags": [ "SEES", "HEARS", "GOODHEARING", "ACIDPROOF", "PUSH_MON", "ELECTRIC", "BASHES", "NO_BREATHE", "ELECTRONIC", "PRIORITIZE_TARGETS", "ELECTRIC" ]
 	},
 	{
      "id": "mon_superunarmed",
@@ -195,7 +195,7 @@
 	 ]
 	 },
 	 "death_function": [ "BROKEN" ],
-	 "flags": [ "SEES", "HEARS", "SMELLS", "KEENNOSE", "GOODHEARING", "ACIDPROOF", "PUSH_MON", "ELECTRIC", "REGENERATES_50", "BASHES", "NO_BREATHE", "ELECTRONIC", "PRIORITIZE_TARGETS", "ELECTRIC" ]
+	 "flags": [ "SEES", "HEARS", "SMELLS", "KEENNOSE", "GOODHEARING", "ACIDPROOF", "PUSH_MON", "ELECTRIC", "BASHES", "NO_BREATHE", "ELECTRONIC", "PRIORITIZE_TARGETS", "ELECTRIC" ]
 	},
 	{
      "id": "mon_unarmedbot",
