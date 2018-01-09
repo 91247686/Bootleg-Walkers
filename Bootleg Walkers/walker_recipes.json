@@ -101,7 +101,6 @@
 	   [ [ "transponder", 8 ] ],
 	   [ [ "antenna", 8 ] ],
 	   [ [ "receiver", 8 ] ],
-	   [ [ "bio_nanobots", 2 ] ],
 	   [ [ "bio_ods", 2 ] ],
 	   [ [ "bio_magnet", 2 ] ],
 	   [ [ "lens", 24 ] ],
