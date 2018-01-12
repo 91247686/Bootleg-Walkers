@@ -8,9 +8,30 @@
 	},
 	{
      "type" : "item_group",
+     "id" : "military",
+     "items": [
+       [ "chickenbot_packed", 4 ]
+     ]
+	},
+	{
+     "type" : "item_group",
      "id" : "helicopter",
      "items": [
        [ "chickenbot_packed", 2 ]
+     ]
+	},
+	{
+     "type" : "item_group",
+     "id" : "lab_dorm",
+     "items": [
+       [ "walker_schematic", 1 ]
+     ]
+	},
+	{
+     "type" : "item_group",
+     "id" : "teleport",
+     "items": [
+       [ "walker_schematic", 5 ]
      ]
 	},
 	{
